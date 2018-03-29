@@ -4,19 +4,19 @@
 ### Implementing visualization techniques using D3
 
 
-[Bar chart](https://bl.ocks.org/bkommineni/b111e58f624a0861ee74f61d96b17f7e)
+[Bar chart](https://bl.ocks.org/bkommineni/b111e58f624a0861ee74f61d96b17f7e)[Reference](https://bl.ocks.org/mbostock/3885304)
 
-[Line chart](https://bl.ocks.org/bkommineni/0f10cedebec7b28b7c932a0e39fffbd7)
+[Line chart](https://bl.ocks.org/bkommineni/0f10cedebec7b28b7c932a0e39fffbd7)[Reference](https://bl.ocks.org/mbostock/3883245)
 
-[Scatter plot - bivariate](https://bl.ocks.org/bkommineni/26270f57af6469c5be103b776503ad91)
+[Scatter plot - bivariate](https://bl.ocks.org/bkommineni/26270f57af6469c5be103b776503ad91)[Reference](https://bl.ocks.org/mbostock/3887118)
 
-[Scatter plot - trivariate](https://bl.ocks.org/bkommineni/d88c182f1eb806ffac8553f6ef8849ad)
+[Scatter plot - trivariate](https://bl.ocks.org/bkommineni/d88c182f1eb806ffac8553f6ef8849ad)[Reference](https://bl.ocks.org/mbostock/3887118)
 
 [Trellis plots](https://bl.ocks.org/bkommineni/357fb74a8effd5ef37ddc432c387ddb5)
 
-[Scatter plot matrix](https://bl.ocks.org/bkommineni/d266f290c3c5cd697d6ebd5539703c1d)
+[Scatter plot matrix](https://bl.ocks.org/bkommineni/d266f290c3c5cd697d6ebd5539703c1d)[Reference](https://bl.ocks.org/mbostock/4063663)
 
-[Parallel coordinates](https://bl.ocks.org/bkommineni/73a10861f9365e9c5dddbccdc6cc6a7d)
+[Parallel coordinates](https://bl.ocks.org/bkommineni/73a10861f9365e9c5dddbccdc6cc6a7d)[Reference](https://bl.ocks.org/mbostock/1341021)
 
 ## Assignment - 3
 ### Graph layout algorithms using P5
