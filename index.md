@@ -28,16 +28,16 @@
 ### Implementing visualization techniques using D3
 
 
-[Bar chart]()
+[Bar chart](https://bl.ocks.org/bkommineni/b111e58f624a0861ee74f61d96b17f7e)
 
-[Line chart]()
+[Line chart](https://bl.ocks.org/bkommineni/0f10cedebec7b28b7c932a0e39fffbd7)
 
-[Scatter plot - bivariate]()
+[Scatter plot - bivariate](https://bl.ocks.org/bkommineni/26270f57af6469c5be103b776503ad91)
 
-[Scatter plot - trivariate]()
+[Scatter plot - trivariate](https://bl.ocks.org/bkommineni/d88c182f1eb806ffac8553f6ef8849ad)
 
-[Trellis plots]()
+[Trellis plots](https://bl.ocks.org/bkommineni/357fb74a8effd5ef37ddc432c387ddb5)
 
-[Scatter plot matrix]()
+[Scatter plot matrix](https://bl.ocks.org/bkommineni/d266f290c3c5cd697d6ebd5539703c1d)
 
-[Parallel coordinates]()
+[Parallel coordinates](https://bl.ocks.org/bkommineni/73a10861f9365e9c5dddbccdc6cc6a7d)
