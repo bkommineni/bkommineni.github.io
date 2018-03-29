@@ -23,3 +23,21 @@
 [Force Directed Layout](https://bl.ocks.org/bkommineni/64a889635e329ffe801bcf5133f4ebb1)
 
 [Matrix Based Layout](https://bl.ocks.org/bkommineni/c110f9553f6a29ea756993ff7ef92625)
+
+## Assignment - 4
+### Implementing visualization techniques using D3
+
+
+[Bar chart]()
+
+[Line chart]()
+
+[Scatter plot - bivariate]()
+
+[Scatter plot - trivariate]()
+
+[Trellis plots]()
+
+[Scatter plot matrix]()
+
+[Parallel coordinates]()
