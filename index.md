@@ -1,5 +1,10 @@
 # Data Visualization
 
+## Assignment - 5
+### Interaction in D3
+
+[Multi-Series Line chart with interaction](https://bl.ocks.org/bkommineni/ff78e0a3309909326728bb0948040d71)
+
 ## Assignment - 4
 ### Implementing visualization techniques using D3
 
